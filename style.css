@@ -12,16 +12,26 @@
 }
 
 .pac-dot {
-    background-color: green;
+    background-color: #69DC9E;
     border: 5px solid white;
     box-sizing: border-box;
 }
 
 .wall {
-    background-color: blue;
+    background-color: #F50072;
 }
 
 .power-pellet {
-    background-color: green;
+    background-color: #01BAEF;
     border-radius: 10px;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.pac-man {
+    background-color: #F4D35E;
+    border-radius: 10px;
+
 }
